@@ -1,0 +1,18 @@
+"/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/Views/SettingsView.swift":
+  object: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/arm64/SettingsView.o"
+  const-values: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/arm64/SettingsView.swiftconstvalues"
+  dependencies: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/arm64/SettingsView.d"
+  diagnostics: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/arm64/SettingsView.dia"
+  swift-dependencies: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/arm64/SettingsView.swiftdeps"
+"/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/Views/NodeListView.swift":
+  object: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/arm64/NodeListView.o"
+  const-values: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/arm64/NodeListView.swiftconstvalues"
+  swift-dependencies: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/arm64/NodeListView.swiftdeps"
+  dependencies: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/arm64/NodeListView.d"
+  diagnostics: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/arm64/NodeListView.dia"
+"/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/Model/AppState.swift":
+  dependencies: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/arm64/AppState.d"
+  object: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/arm64/AppState.o"
+  const-values: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/arm64/AppState.swiftconstvalues"
+  swift-dependencies: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/arm64/AppState.swiftdeps"
+  diagnostics: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/arm64/AppState.dia"

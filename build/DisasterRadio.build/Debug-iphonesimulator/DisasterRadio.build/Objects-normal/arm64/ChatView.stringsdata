@@ -1,0 +1,24 @@
+{
+  "source": "/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/Views/ChatView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "disaster.radio"
+      },
+      {
+        "comment": "",
+        "key": "Not connected — tap %@ to connect"
+      },
+      {
+        "comment": "",
+        "key": "Message…"
+      },
+      {
+        "comment": "",
+        "key": "Enter your name or alias"
+      }
+    ]
+  },
+  "version": 1
+}

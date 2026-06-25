@@ -1,0 +1,13 @@
+/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/DisasterRadioApp.swift
+/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/Views/ContentView.swift
+/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/Views/ChatView.swift
+/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/Views/ConnectionView.swift
+/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/Views/NodeListView.swift
+/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/Views/SettingsView.swift
+/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/Model/AppState.swift
+/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/Transport/DisasterTransport.swift
+/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/Transport/BLETransport.swift
+/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/Transport/WebSocketTransport.swift
+/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/Protocol/DisasterProtocol.swift
+/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/Crypto/CryptoManager.swift
+/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/DerivedSources/GeneratedAssetSymbols.swift

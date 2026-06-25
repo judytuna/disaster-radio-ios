@@ -1,0 +1,24 @@
+"/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/Views/ContentView.swift":
+  object: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ContentView.o"
+  dependencies: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ContentView.d"
+  const-values: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ContentView.swiftconstvalues"
+  swift-dependencies: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ContentView.swiftdeps"
+  diagnostics: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ContentView.dia"
+"/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/DisasterRadioApp.swift":
+  const-values: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/DisasterRadioApp.swiftconstvalues"
+  diagnostics: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/DisasterRadioApp.dia"
+  object: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/DisasterRadioApp.o"
+  swift-dependencies: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/DisasterRadioApp.swiftdeps"
+  dependencies: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/DisasterRadioApp.d"
+"/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/Views/ChatView.swift":
+  const-values: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ChatView.swiftconstvalues"
+  diagnostics: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ChatView.dia"
+  swift-dependencies: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ChatView.swiftdeps"
+  object: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ChatView.o"
+  dependencies: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ChatView.d"
+"/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/Views/ConnectionView.swift":
+  swift-dependencies: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ConnectionView.swiftdeps"
+  object: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ConnectionView.o"
+  diagnostics: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ConnectionView.dia"
+  dependencies: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ConnectionView.d"
+  const-values: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ConnectionView.swiftconstvalues"

@@ -1,0 +1,138 @@
+{
+  "" : {
+    "diagnostics" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/DisasterRadio-master.dia",
+    "emit-module-dependencies" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/DisasterRadio-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/DisasterRadio-master-emit-module.dia",
+    "swift-dependencies" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/DisasterRadio-master.swiftdeps"
+  },
+  "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/Crypto/CryptoManager.swift" : {
+    "const-values" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/CryptoManager.swiftconstvalues",
+    "dependencies" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/CryptoManager.d",
+    "diagnostics" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/CryptoManager.dia",
+    "index-unit-output-path" : "/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/CryptoManager.o",
+    "llvm-bc" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/CryptoManager.bc",
+    "object" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/CryptoManager.o",
+    "swift-dependencies" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/CryptoManager.swiftdeps",
+    "swiftmodule" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/CryptoManager~partial.swiftmodule"
+  },
+  "/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/DisasterRadioApp.swift" : {
+    "const-values" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/DisasterRadioApp.swiftconstvalues",
+    "dependencies" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/DisasterRadioApp.d",
+    "diagnostics" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/DisasterRadioApp.dia",
+    "index-unit-output-path" : "/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/DisasterRadioApp.o",
+    "llvm-bc" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/DisasterRadioApp.bc",
+    "object" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/DisasterRadioApp.o",
+    "swift-dependencies" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/DisasterRadioApp.swiftdeps",
+    "swiftmodule" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/DisasterRadioApp~partial.swiftmodule"
+  },
+  "/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/Model/AppState.swift" : {
+    "const-values" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/AppState.swiftconstvalues",
+    "dependencies" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/AppState.d",
+    "diagnostics" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/AppState.dia",
+    "index-unit-output-path" : "/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/AppState.o",
+    "llvm-bc" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/AppState.bc",
+    "object" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/AppState.o",
+    "swift-dependencies" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/AppState.swiftdeps",
+    "swiftmodule" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/AppState~partial.swiftmodule"
+  },
+  "/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/Protocol/DisasterProtocol.swift" : {
+    "const-values" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/DisasterProtocol.swiftconstvalues",
+    "dependencies" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/DisasterProtocol.d",
+    "diagnostics" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/DisasterProtocol.dia",
+    "index-unit-output-path" : "/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/DisasterProtocol.o",
+    "llvm-bc" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/DisasterProtocol.bc",
+    "object" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/DisasterProtocol.o",
+    "swift-dependencies" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/DisasterProtocol.swiftdeps",
+    "swiftmodule" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/DisasterProtocol~partial.swiftmodule"
+  },
+  "/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/Transport/BLETransport.swift" : {
+    "const-values" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/BLETransport.swiftconstvalues",
+    "dependencies" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/BLETransport.d",
+    "diagnostics" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/BLETransport.dia",
+    "index-unit-output-path" : "/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/BLETransport.o",
+    "llvm-bc" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/BLETransport.bc",
+    "object" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/BLETransport.o",
+    "swift-dependencies" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/BLETransport.swiftdeps",
+    "swiftmodule" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/BLETransport~partial.swiftmodule"
+  },
+  "/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/Transport/DisasterTransport.swift" : {
+    "const-values" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/DisasterTransport.swiftconstvalues",
+    "dependencies" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/DisasterTransport.d",
+    "diagnostics" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/DisasterTransport.dia",
+    "index-unit-output-path" : "/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/DisasterTransport.o",
+    "llvm-bc" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/DisasterTransport.bc",
+    "object" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/DisasterTransport.o",
+    "swift-dependencies" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/DisasterTransport.swiftdeps",
+    "swiftmodule" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/DisasterTransport~partial.swiftmodule"
+  },
+  "/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/Transport/WebSocketTransport.swift" : {
+    "const-values" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/WebSocketTransport.swiftconstvalues",
+    "dependencies" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/WebSocketTransport.d",
+    "diagnostics" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/WebSocketTransport.dia",
+    "index-unit-output-path" : "/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/WebSocketTransport.o",
+    "llvm-bc" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/WebSocketTransport.bc",
+    "object" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/WebSocketTransport.o",
+    "swift-dependencies" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/WebSocketTransport.swiftdeps",
+    "swiftmodule" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/WebSocketTransport~partial.swiftmodule"
+  },
+  "/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/Views/ChatView.swift" : {
+    "const-values" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ChatView.swiftconstvalues",
+    "dependencies" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ChatView.d",
+    "diagnostics" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ChatView.dia",
+    "index-unit-output-path" : "/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ChatView.o",
+    "llvm-bc" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ChatView.bc",
+    "object" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ChatView.o",
+    "swift-dependencies" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ChatView.swiftdeps",
+    "swiftmodule" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ChatView~partial.swiftmodule"
+  },
+  "/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/Views/ConnectionView.swift" : {
+    "const-values" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ConnectionView.swiftconstvalues",
+    "dependencies" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ConnectionView.d",
+    "diagnostics" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ConnectionView.dia",
+    "index-unit-output-path" : "/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ConnectionView.o",
+    "llvm-bc" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ConnectionView.bc",
+    "object" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ConnectionView.o",
+    "swift-dependencies" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ConnectionView.swiftdeps",
+    "swiftmodule" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ConnectionView~partial.swiftmodule"
+  },
+  "/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/Views/ContentView.swift" : {
+    "const-values" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ContentView.d",
+    "diagnostics" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ContentView.dia",
+    "index-unit-output-path" : "/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ContentView.o",
+    "llvm-bc" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ContentView.bc",
+    "object" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ContentView.o",
+    "swift-dependencies" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/ContentView~partial.swiftmodule"
+  },
+  "/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/Views/NodeListView.swift" : {
+    "const-values" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/NodeListView.swiftconstvalues",
+    "dependencies" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/NodeListView.d",
+    "diagnostics" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/NodeListView.dia",
+    "index-unit-output-path" : "/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/NodeListView.o",
+    "llvm-bc" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/NodeListView.bc",
+    "object" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/NodeListView.o",
+    "swift-dependencies" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/NodeListView.swiftdeps",
+    "swiftmodule" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/NodeListView~partial.swiftmodule"
+  },
+  "/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/Views/SettingsView.swift" : {
+    "const-values" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/SettingsView.swiftconstvalues",
+    "dependencies" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/SettingsView.d",
+    "diagnostics" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/SettingsView.dia",
+    "index-unit-output-path" : "/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/SettingsView.o",
+    "llvm-bc" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/SettingsView.bc",
+    "object" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/SettingsView.o",
+    "swift-dependencies" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/SettingsView.swiftdeps",
+    "swiftmodule" : "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/SettingsView~partial.swiftmodule"
+  }
+}

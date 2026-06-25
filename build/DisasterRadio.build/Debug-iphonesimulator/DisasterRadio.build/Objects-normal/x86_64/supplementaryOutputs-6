@@ -1,0 +1,18 @@
+"/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/Transport/DisasterTransport.swift":
+  diagnostics: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/DisasterTransport.dia"
+  dependencies: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/DisasterTransport.d"
+  object: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/DisasterTransport.o"
+  const-values: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/DisasterTransport.swiftconstvalues"
+  swift-dependencies: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/DisasterTransport.swiftdeps"
+"/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/Transport/BLETransport.swift":
+  object: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/BLETransport.o"
+  const-values: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/BLETransport.swiftconstvalues"
+  swift-dependencies: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/BLETransport.swiftdeps"
+  diagnostics: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/BLETransport.dia"
+  dependencies: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/BLETransport.d"
+"/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/Transport/WebSocketTransport.swift":
+  object: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/WebSocketTransport.o"
+  swift-dependencies: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/WebSocketTransport.swiftdeps"
+  const-values: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/WebSocketTransport.swiftconstvalues"
+  diagnostics: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/WebSocketTransport.dia"
+  dependencies: "/Users/judytuna/src/sudostuff/DisasterRadioiOS/build/DisasterRadio.build/Debug-iphonesimulator/DisasterRadio.build/Objects-normal/x86_64/WebSocketTransport.d"

@@ -1,0 +1,20 @@
+{
+  "source": "/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/Views/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Chat"
+      },
+      {
+        "comment": "",
+        "key": "Nodes"
+      },
+      {
+        "comment": "",
+        "key": "Settings"
+      }
+    ]
+  },
+  "version": 1
+}

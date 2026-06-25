@@ -1,0 +1,41 @@
+name: DisasterRadio
+options:
+  bundleIdPrefix: com.sudoroom
+  deploymentTarget:
+    iOS: "16.0"
+  xcodeVersion: "15"
+
+settings:
+  base:
+    SWIFT_VERSION: "5.9"
+    IPHONEOS_DEPLOYMENT_TARGET: "16.0"
+
+targets:
+  DisasterRadio:
+    type: application
+    platform: iOS
+    deploymentTarget: "16.0"
+    sources:
+      - path: Sources/DisasterRadio
+    info:
+      path: Sources/DisasterRadio/Info.plist
+      properties:
+        CFBundleDisplayName: disaster.radio
+        CFBundleShortVersionString: "1.0"
+        CFBundleVersion: "1"
+        UILaunchScreen: {}
+        NSBluetoothAlwaysUsageDescription: "disaster.radio uses Bluetooth to connect to nearby LoRa nodes."
+        NSBluetoothPeripheralUsageDescription: "disaster.radio uses Bluetooth to connect to nearby LoRa nodes."
+        NSLocalNetworkUsageDescription: "disaster.radio connects to a disaster-radio node on your local Wi-Fi network."
+        UIApplicationSceneManifest:
+          UIApplicationSupportsMultipleScenes: false
+          UISceneConfigurations: {}
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.sudoroom.DisasterRadio
+        INFOPLIST_FILE: Sources/DisasterRadio/Info.plist
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+    entitlements:
+      path: Sources/DisasterRadio/DisasterRadio.entitlements
+      properties:
+        com.apple.security.network.client: true

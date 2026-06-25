@@ -1,0 +1,48 @@
+{
+  "source": "/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/Views/ConnectionView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Connect"
+      },
+      {
+        "comment": "",
+        "key": "Mode"
+      },
+      {
+        "comment": "",
+        "key": "Bluetooth"
+      },
+      {
+        "comment": "",
+        "key": "Wi-Fi"
+      },
+      {
+        "comment": "",
+        "key": "Stop"
+      },
+      {
+        "comment": "",
+        "key": "Scan"
+      },
+      {
+        "comment": "",
+        "key": "Device IP"
+      },
+      {
+        "comment": "",
+        "key": "192.168.4.1"
+      },
+      {
+        "comment": "",
+        "key": "Reconnect"
+      },
+      {
+        "comment": "",
+        "key": "Connected to %@"
+      }
+    ]
+  },
+  "version": 1
+}

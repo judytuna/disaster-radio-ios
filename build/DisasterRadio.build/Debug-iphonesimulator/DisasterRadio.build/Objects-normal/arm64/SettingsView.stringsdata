@@ -1,0 +1,80 @@
+{
+  "source": "/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/Views/SettingsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Settings"
+      },
+      {
+        "comment": "",
+        "key": "Regenerate Keys?"
+      },
+      {
+        "comment": "",
+        "key": "Identity"
+      },
+      {
+        "comment": "",
+        "key": "Connection"
+      },
+      {
+        "comment": "",
+        "key": "About"
+      },
+      {
+        "comment": "",
+        "key": "Username"
+      },
+      {
+        "comment": "",
+        "key": "Save"
+      },
+      {
+        "comment": "",
+        "key": "Regenerate Keys"
+      },
+      {
+        "comment": "",
+        "key": "Public Key"
+      },
+      {
+        "comment": "",
+        "key": "Your Ed25519 public key identifies you on the network."
+      },
+      {
+        "comment": "",
+        "key": "Wi-Fi Host"
+      },
+      {
+        "comment": "",
+        "key": "192.168.4.1"
+      },
+      {
+        "comment": "",
+        "key": "Version"
+      },
+      {
+        "comment": "",
+        "key": "disaster.radio"
+      },
+      {
+        "comment": "",
+        "key": "Source code"
+      },
+      {
+        "comment": "",
+        "key": "Regenerate"
+      },
+      {
+        "comment": "",
+        "key": "Cancel"
+      },
+      {
+        "comment": "",
+        "key": "This will generate a new identity. Other nodes won't recognize messages from your old key."
+      }
+    ]
+  },
+  "version": 1
+}

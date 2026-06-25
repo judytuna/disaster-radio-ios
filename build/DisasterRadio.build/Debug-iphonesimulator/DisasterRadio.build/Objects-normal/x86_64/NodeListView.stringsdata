@@ -1,0 +1,28 @@
+{
+  "source": "/Users/judytuna/src/sudostuff/DisasterRadioiOS/Sources/DisasterRadio/Views/NodeListView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%lld Nearby Node%@"
+      },
+      {
+        "comment": "",
+        "key": "No Nodes"
+      },
+      {
+        "comment": "",
+        "key": "Connect to a disaster-radio node to see nearby nodes."
+      },
+      {
+        "comment": "",
+        "key": "%lld hop%@"
+      },
+      {
+        "comment": "",
+        "key": "metric %lld"
+      }
+    ]
+  },
+  "version": 1
+}
