@@ -79,6 +79,43 @@ Messages are binary-framed:
 - Namespace `r` = route table (binary, 16 bytes per entry: 12 MAC + 2 hops + 2 metric)
 - ACK from node: `[same 2-byte ID]['!']`
 
+## Testing
+
+22 unit tests across 3 suites, using **XCTest** (Apple's built-in test framework). No third-party test dependencies.
+
+```bash
+xcodebuild test \
+  -project DisasterRadio.xcodeproj \
+  -scheme DisasterRadio \
+  -sdk iphonesimulator \
+  -destination 'platform=iOS Simulator,name=iPhone 16' \
+  CODE_SIGNING_ALLOWED=NO
+```
+
+| Suite | Tests | What's covered |
+|---|---|---|
+| `CryptoManagerTests` | 7 | Ed25519 key size, signing, verify round-trip, key stability across calls |
+| `DisasterProtocolTests` | 8 | Binary framing, message ID incrementing, namespace/payload parsing, short message rejection, ACK packet format |
+| `RouteParserTests` | 7 | Binary route table parsing, little-endian fields, one/two entries, leftover bytes, edge cases |
+
+Tests use a `MockTransport` that implements `DisasterTransport` to inject raw bytes directly into the protocol layer without needing real hardware or a network connection. Async tests use `await fulfillment(of:)` (XCTest's async-safe expectation API, iOS 16+).
+
+CI runs the full test suite on every push and pull request via GitHub Actions (`.github/workflows/build.yml`), using Apple Silicon macOS runners provided free for public repos.
+
+## Frameworks used
+
+All pure Apple frameworks — no third-party dependencies.
+
+| Framework | Used for |
+|---|---|
+| **SwiftUI** | All UI — tabs, chat bubbles, forms, navigation |
+| **Combine** | Publisher/subscriber wiring between transport, protocol, and UI layers |
+| **CoreBluetooth** | BLE scanning, GATT connection, Nordic UART Service characteristic read/write/notify |
+| **URLSession** | WebSocket connection (`URLSessionWebSocketTask`) |
+| **CryptoKit** | Ed25519 keypair generation and detached signing (`Curve25519.Signing`) |
+| **Security** | Keychain storage for the private key |
+| **XCTest** | Unit tests |
+
 ## Related projects
 
 - [disaster-radio firmware](https://github.com/sudomesh/disaster-radio) — the ESP32 firmware this app talks to
