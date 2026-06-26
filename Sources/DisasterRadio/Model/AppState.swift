@@ -140,7 +140,7 @@ final class AppState: ObservableObject {
         }
     }
 
-    private func parseRoutes(_ data: Data) -> [RouteEntry] {
+    func parseRoutes(_ data: Data) -> [RouteEntry] {
         // Each route entry is 16 hex chars = 8 bytes in the web app's display,
         // but the raw binary is 16 bytes: 12 MAC + 2 hops + 2 metric.
         let entrySize = 16

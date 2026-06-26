@@ -1,4 +1,4 @@
-name: Build
+name: Build & Test
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
     branches: [main]
 
 jobs:
-  build:
+  test:
     runs-on: macos-latest
     steps:
       - uses: actions/checkout@v4
@@ -15,11 +15,11 @@ jobs:
       - name: Select Xcode
         run: sudo xcode-select -s /Applications/Xcode.app
 
-      - name: Build
+      - name: Build & Test
         run: |
-          xcodebuild build \
+          xcodebuild test \
             -project DisasterRadio.xcodeproj \
             -scheme DisasterRadio \
             -sdk iphonesimulator \
-            -destination 'generic/platform=iOS Simulator' \
+            -destination 'platform=iOS Simulator,name=iPhone 16' \
             CODE_SIGNING_ALLOWED=NO
