@@ -67,7 +67,6 @@
 				AA000001000000000000009B /* BLETransport.swift */,
 				AA00000100000000000000AB /* WebSocketTransport.swift */,
 			);
-			name = Transport;
 			path = Transport;
 			sourceTree = "<group>";
 		};
@@ -76,7 +75,6 @@
 			children = (
 				AA00000100000000000000BB /* DisasterProtocol.swift */,
 			);
-			name = Protocol;
 			path = Protocol;
 			sourceTree = "<group>";
 		};
@@ -85,7 +83,6 @@
 			children = (
 				AA00000100000000000000CB /* CryptoManager.swift */,
 			);
-			name = Crypto;
 			path = Crypto;
 			sourceTree = "<group>";
 		};
@@ -94,7 +91,6 @@
 			children = (
 				AA000001000000000000007B /* AppState.swift */,
 			);
-			name = Model;
 			path = Model;
 			sourceTree = "<group>";
 		};
@@ -107,11 +103,10 @@
 				AA000001000000000000005B /* NodeListView.swift */,
 				AA000001000000000000006B /* SettingsView.swift */,
 			);
-			name = Views;
 			path = Views;
 			sourceTree = "<group>";
 		};
-		AA000001000000000000032A /* DisasterRadio */ = {
+		AA000001000000000000032A /* Sources/DisasterRadio */ = {
 			isa = PBXGroup;
 			children = (
 				AA000001000000000000001B /* DisasterRadioApp.swift */,
@@ -124,13 +119,13 @@
 				AA00000100000000000000EB /* Info.plist */,
 				AA00000100000000000000FB /* DisasterRadio.entitlements */,
 			);
-			path = "Sources/DisasterRadio";
+			path = Sources/DisasterRadio;
 			sourceTree = "<group>";
 		};
 		AA000001000000000000033A = {
 			isa = PBXGroup;
 			children = (
-				AA000001000000000000032A /* DisasterRadio */,
+				AA000001000000000000032A /* Sources/DisasterRadio */,
 				AA000001000000000000030A /* Products */,
 			);
 			sourceTree = "<group>";
@@ -342,19 +337,19 @@
 		AA000001000000000000052A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_ENTITLEMENTS = "Sources/DisasterRadio/DisasterRadio.entitlements";
+				CODE_SIGN_ENTITLEMENTS = Sources/DisasterRadio/DisasterRadio.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 5EL2YAA4GG;
 				GENERATE_INFOPLIST_FILE = NO;
-				INFOPLIST_FILE = "Sources/DisasterRadio/Info.plist";
+				INFOPLIST_FILE = Sources/DisasterRadio/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sudoroom.DisasterRadio";
+				PRODUCT_BUNDLE_IDENTIFIER = com.sudoroom.DisasterRadio;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -365,19 +360,19 @@
 		AA000001000000000000052B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_ENTITLEMENTS = "Sources/DisasterRadio/DisasterRadio.entitlements";
+				CODE_SIGN_ENTITLEMENTS = Sources/DisasterRadio/DisasterRadio.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 5EL2YAA4GG;
 				GENERATE_INFOPLIST_FILE = NO;
-				INFOPLIST_FILE = "Sources/DisasterRadio/Info.plist";
+				INFOPLIST_FILE = Sources/DisasterRadio/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sudoroom.DisasterRadio";
+				PRODUCT_BUNDLE_IDENTIFIER = com.sudoroom.DisasterRadio;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -407,7 +402,6 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-
 	};
 	rootObject = AA000001000000000000080A /* Project object */;
 }

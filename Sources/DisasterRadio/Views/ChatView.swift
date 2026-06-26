@@ -102,7 +102,7 @@ struct ChatView: View {
 
     private var connectionIcon: String {
         switch appState.connectionMode {
-        case .ble: return "bluetooth"
+        case .ble: return "wave.3.right.circle"
         case .wifi: return "wifi"
         }
     }
